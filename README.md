@@ -20,18 +20,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Virtual Machine in Azure
+- Create a Virtual Machine in Azure
 - Open installation files to install OsTicket and some of the dependencies.
 
 
 <h2> Post Installation Steps</h2>
 
 <p>
-
-  
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/NF3z7SL.png)" height="80%" width="80%" alt="Adding Roles"/>
-
-  
+![Adding roles](https://github.com/Xdscott/osticket-prereqs/assets/125581739/2470a93d-fdaf-4088-b0a7-112b53bf6a3e)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
